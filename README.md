@@ -13,11 +13,19 @@ Most of the repositories here are old experiments--it's like some time capsule o
 - **[K Virtual Machine (KVM)](https://github.com/kylxbn/kvm)**: my own VM with replaceable components (CPU/RAM/GPU) + assembler + bootloader experiments.  
 - **[ZLEMA/EMA for Google Sheets](https://github.com/kylxbn/google-apps-script-zlema)**: Google Apps Script custom functions for moving averages.  
 
-## I like working on
+## What I like working on
 
 - Digital audio and DSP experiments
 - Codecs, media compression, and file formats in general (the older the better... but the newer the better also)
 - Tiny utilities whenever I feel like "I should be able to automate this in one command"
+
+## What I'm forced to work on
+
+- Software engineering
+- Full stack web dev
+- DevOps and infrastructure
+
+...not that I don't like these, but you know what I mean.
 
 ## Grab bag
 
