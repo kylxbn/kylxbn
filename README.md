@@ -16,6 +16,8 @@ Most of the repositories here are old experiments--it's like some time capsule o
 ## What I like working on
 
 - Digital audio and DSP experiments
+- Algorithms, math
+- Btw, I use Arch Linux
 - Codecs, media compression, and file formats in general (the older the better... but the newer the better also)
 - Tiny utilities whenever I feel like "I should be able to automate this in one command"
 
