@@ -7,7 +7,7 @@ Most of the repositories here are old experiments--it's like some time capsule o
 ## Featured projects
 
 - **[Pixel Exchange Format (PXF)](https://github.com/kylxbn/pixel-exchange-format)**: a codec that encodes audio/binary data into fixed-width images (with FEC + integrity checks).  
-- **[Impulse](https://github.com/kylxbn/impulse)**: a no-nonsense music player built around mpv IPC (playlist/details, ReplayGain, lyrics, MPRIS on Wayland).  
+- **[Impulse](https://github.com/kylxbn/impulse)**: a no-nonsense music player built around FFmpeg (playlist/details, ReplayGain, MPRIS...)  
 - **[kmus](https://github.com/kylxbn/kmus)**: sync/transcode your master music archive to portable devices (ReplayGain-aware, album-art handling, JSON DB).  
 - **[jxl-migrate](https://github.com/kylxbn/jxl-migrate)**: bulk-convert folders of images to JPEG XL.  
 - **[K Virtual Machine (KVM)](https://github.com/kylxbn/kvm)**: my own VM with replaceable components (CPU/RAM/GPU) + assembler + bootloader experiments.  
