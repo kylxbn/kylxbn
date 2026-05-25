@@ -2,7 +2,7 @@
 
 I'm Kyle (@kylxbn). I build small, slightly impractical software that scratches specific itches: audio tools, codecs, odd UIs, and experiments that feel like "I wonder if this would work" and then it goes "I wonder how far I can take this..."
 
-Most of the repositories here are old experiments--it's like some time capsule of when I was still young and had the free time to build lots of silly unfinished things. Some are serious personal projects. Some are private. But most of what I do now is for work and those are not listed in my personal GitHub account.
+Most of the repositories here are old experiments--it's like some time capsule of when I was still young and had the free time to build lots of silly unfinished things. Some are serious personal projects. Some are private.
 
 ## Featured projects
 
